@@ -1,6 +1,6 @@
 % Define domain and discretization
 L = 300;        % (mm) length of the domain
-xh = 7e-1;      % (mm) spatial discretization
+#xh =5e-2;      % (mm) spatial discretization change it to your discretisation values
 xmesh = 0:xh:L; % Discretized spatial domain
 rng(234)
 NSiml = 20000; % Number of synthetic patients
