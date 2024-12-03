@@ -1,4 +1,4 @@
-# glioma_macrophage_model
+
 # Glioma-macrophage-interaction-model
 
 This Repository depicts the codes used for the manuscript below:
