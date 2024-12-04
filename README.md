@@ -21,7 +21,7 @@ This study employs a two-phase approach to investigate the role of tumor-associa
   - **Tumor Infiltration Width (IW):** Distance between the tumor core (80% tumor cell density) and tumor edge (2% tumor cell density).
   - **Tumor Size (TS):** Calculated by integrating the spatial profile of tumor density normalized by its maximum value.
  
-<img src="https://github.com/user-attachments/assets/0ed49bc0-474c-4747-9df6-1306417c53b7" alt="Study Framework" width="600">
+<img src="https://github.com/user-attachments/assets/0ed49bc0-474c-4747-9df6-1306417c53b7" alt="Study Framework" width="400">
 
 ### Sensitivity analysis
 
