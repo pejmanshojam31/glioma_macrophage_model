@@ -46,6 +46,6 @@ The primary objective is to:
 ## How to use this repository:
 
 First we can check the mathematical folder to generate the data. We already have the generated data of 20,000 synthetic patients. Therefore, we can just run the main file to get the raw dataset for both initial tumor growth and the tumor recurrence post resection.
-After obtaining the dataset, you can run the file Selected data extracted to generate the dataset for the machine learning predictions similar to what we have in [here]([URL](https://github.com/pejmanshojam31/glioma_macrophage_model/tree/main/data)). 
+After obtaining the dataset, you can run the file Selected data extracted to generate the dataset for the machine learning predictions similar to what we have in [here](https://github.com/pejmanshojam31/glioma_macrophage_model/tree/main/data). 
 
 For the machine learning approaches, you can simply run the notebooks to obtain the results. If you have questions, please [contact](pejman.shojaee@tu-dresden.de) me.
