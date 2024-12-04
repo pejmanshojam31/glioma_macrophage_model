@@ -8,7 +8,8 @@ https://www.biorxiv.org/content/10.1101/2024.06.25.600613v1.abstract
 
 This study employs a two-phase approach to investigate the role of tumor-associated macrophages (TAMs) in glioma recurrence after surgical resection. The aim is to understand the predictive power of each feature in a virtual reality environment. We want to investigate to what extent localized biopsies are essential and how much more data they can provide than conventional random biopsies. This study involves two phases. Phase one develops a novel spatiotemporal mathematical model based on the interplay between the gliomas and macrophage phenotypes based on the role of oxygen in the tumor microenvironment. Phase two investigates the generated dataset to predict the tumor recurrence after the resection. Here, we explicitly define these two steps.
 
-[Figure 1.pdf](https://github.com/user-attachments/files/18009840/Figure.1.pdf)
+![Screenshot 2024-12-04 154624](https://github.com/user-attachments/assets/09626458-9041-4686-ac28-4b0c4c9dc0db)
+
 
 ## Phase 1: Mathematical Modeling
 
