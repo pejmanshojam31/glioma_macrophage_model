@@ -1,6 +1,6 @@
 # FAQ about the manuscript
 
-I used notebooklm to generate a FAQ list for this repository.
+I used notebooklm to generate a FAQ list for this repository. This can heal readers to have a brief information about the hypothesis and the approaches used in this study.
 ## What role do tumor-associated macrophages (TAMs) play in glioblastoma (GBM) recurrence?
 TAMs are the most abundant immune cells in the tumor microenvironment (TME) and play a complex role in GBM progression and recurrence. They can be broadly classified into two phenotypes: M1 (anti-tumor) and M2 (pro-tumor).
 
