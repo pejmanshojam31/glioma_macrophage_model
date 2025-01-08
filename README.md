@@ -2,7 +2,7 @@
 # Glioma-macrophage-interaction-model
 
 This Repository depicts the codes used for the manuscript below:
-[https://www.biorxiv.org/content/10.1101/2024.06.25.600613v1.abstract ](https://www.nature.com/articles/s41540-024-00478-7)
+[(https://www.nature.com/articles/s41540-024-00478-7)](https://www.nature.com/articles/s41540-024-00478-7)
 
 # Framework of the Study
 
